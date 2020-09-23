@@ -1,0 +1,2 @@
+from scipy import stats
+stats.norm.cdf(70,60,10)
